@@ -1,0 +1,6 @@
+site,line,product_code,detected_at,title,description,defect_type,process_step,severity
+    Plant A,Line 1,EVAP-330,2025-07-15T09:15:00,Seam leak detected,Leak at double seam during autoclave cooling phase,Seam Leak,Seaming,3
+    Plant A,Line 2,EVAP-330,2025-07-20T11:05:00,Underfill complaint,Random underweight cans from shift B,Underfill,Filling,2
+    Plant B,Line 1,EVAP-160,2025-07-28T08:40:00,Label misalignment,Skewed labels beyond spec (>3mm),Labeling Defect,Labeling,1
+    Plant A,Line 3,EVAP-330,2025-08-01T13:10:00,Autoclave temp dip,Drop to 114C for ~4min; potential under-process,Thermal Deviation,Autoclave,4
+    Plant C,Line 1,EVAP-330,2025-08-05T10:25:00,Chiller water contamination,High iron causing stains on cans post-cooling,Water Quality,Utility,3
