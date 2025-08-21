@@ -1,0 +1,7 @@
+streamlit==1.30.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+plotly==5.16.1
+sentence-transformers==2.2.2
+joblib==1.2.0
